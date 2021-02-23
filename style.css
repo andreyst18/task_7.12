@@ -39,6 +39,7 @@ p,
 }
 
 .section_one {
+    height: 700px;
     background: #EEEFF1;
 } 
 
@@ -60,7 +61,14 @@ p,
 .menu {
     padding: 0;
     margin-top: 79px;
+    margin-left: 388.4px;
 }
+
+
+.present {
+    margin-left: 131px;
+}
+
 
 .menu li {
     display: inline-flex;
@@ -115,6 +123,11 @@ h1 {
     background: #34547A;
     color: #ffffff;
     border: none;
+}
+
+.section_two {
+    height: 359px;
+    background-color: #E5E5E5;;
 }
 
 .about_me {
@@ -201,6 +214,7 @@ h2 {
 .section_four {
     height: 653px;
     background-color: #E5E5E5;
+    max-height: 1440px;
 }
 
 .wrapper {
